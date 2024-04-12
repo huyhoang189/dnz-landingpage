@@ -26,7 +26,7 @@ define( 'DB_NAME', "dnz_ldp" );
 define( 'DB_USER', "root1" );
 
 /** Database password */
-define( 'DB_PASSWORD', "Viettech@123" );
+define( 'DB_PASSWORD', "vietTech@1234" );
 
 /** Database hostname */
 define( 'DB_HOST', "103.163.214.134" );
