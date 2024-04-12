@@ -86,7 +86,7 @@ define( 'WP_DEBUG', false );
 
 
 
-define( 'WP_SITEURL', 'http://localhost:880/ChuyenDoiSo/' );
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
