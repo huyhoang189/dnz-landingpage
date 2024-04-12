@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', "dnz_ldp" );
+define( 'DB_NAME', "Chuyendoiso" );
 
 /** Database username */
-define( 'DB_USER', "root1" );
+define( 'DB_USER', "root" );
 
 /** Database password */
-define( 'DB_PASSWORD', "vietTech@1234" );
+define( 'DB_PASSWORD', "" );
 
 /** Database hostname */
-define( 'DB_HOST', "103.163.214.134" );
+define( 'DB_HOST', "localhost" );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -86,7 +86,7 @@ define( 'WP_DEBUG', false );
 
 
 
-/*define( 'WP_SITEURL', 'http://localhost:880/ChuyenDoiSo/' );*/
+define( 'WP_SITEURL', 'http://localhost:880/ChuyenDoiSo/' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
